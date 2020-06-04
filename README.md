@@ -1,7 +1,7 @@
 # Favourite-Movies-Using-Python
 Creating a Webpage that displays movies with trailers from YouTube using Python. 
 
-This is a project from Udacity's Introduction to Python Programming course (2017). It is a webebpage generated with python that displays my favourite movies and their trailers from YouTube.
+This is a project from Udacity's Introduction to Python Programming course (2017). It is a webpage generated with python that displays movies and their trailers from YouTube.
 
 To Run:
 1. Download/clone the repository to your desktop.
